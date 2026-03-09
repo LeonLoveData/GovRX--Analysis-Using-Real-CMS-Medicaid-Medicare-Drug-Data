@@ -134,5 +134,3 @@ Planned improvements include:
 * Drug-class level analysis
 * Contract pricing simulation
 
-
-**

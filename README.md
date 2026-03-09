@@ -102,24 +102,6 @@ figures/                  # Generated plots
 
 ````
 
----
-
-# How to Run
-
-## Run the full pipeline
-
-```bash
-python govrx_full_pipeline.py
-````
-
-## Launch the dashboard
-
-```bash
-streamlit run govrx_full_pipeline.py
-```
-
----
-
 # Tech Stack
 
 * Python

@@ -1,4 +1,4 @@
-**# 🌐 GovRx Analytics Platform
+🌐 GovRx Analytics Platform
 End-to-end analytics on real CMS Medicaid & Medicare drug data
 
 ---

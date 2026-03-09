@@ -5,7 +5,7 @@ End-to-end analytics on real CMS Medicaid & Medicare drug data
 
 # Overview
 
-GovRx Analytics Platform is a multiple-file Python pipeline** built to analyze real CMS Medicaid Drug Utilization and Medicare Part B/D datasets**.
+GovRx Analytics Platform is a multiple-file Python pipeline built to analyze real CMS Medicaid Drug Utilization and Medicare Part B/D datasets.
 
 It processes raw government data into structured insights through:
 
@@ -80,9 +80,9 @@ The pipeline generates:
 
 All datasets come directly from CMS (Centers for Medicare & Medicaid Services)**:
 
-- **Medicaid Drug Utilization (SDUD)** — 2022, 2023, 2024
-- **Medicare Part B Drug Spending**
-- **Medicare Part D Drug Spending** (wide format converted to long format)
+- Medicaid Drug Utilization (SDUD) - 2022, 2023, 2024
+- Medicare Part B Drug Spending
+- Medicare Part D Drug Spending (wide format converted to long format)
 
 These datasets reflect **real U.S. government program activity** and are widely used in:
 

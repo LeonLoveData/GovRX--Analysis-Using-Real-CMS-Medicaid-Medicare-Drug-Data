@@ -144,3 +144,6 @@ Planned improvements include:
 * Drug-class level analysis
 * Contract pricing simulation
 
+## ▶️ Disclaimer
+
+The analysis is based on publicly available government data. All rights to the underlying data belong to the original source. The interpretations and conclusions expressed herein are solely those of the author and do not imply any endorsement or opposition regarding any company or product. This content is for learning and non-commercial purposes only and does not constitute medical or professional advice.

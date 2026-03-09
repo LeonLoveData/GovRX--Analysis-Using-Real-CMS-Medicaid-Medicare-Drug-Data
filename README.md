@@ -72,7 +72,7 @@ The pipeline generates:
 ![Medicaid_units by_year](outputs/medicaid_units_by_year.png)
 
 ### Medicare_part_d_forecast_plot  
-![medicare_part_d_forecast_plot](medicare_part_d_forecast_plot.png)
+![medicare_part_d_forecast_plot](outputs/medicare_part_d_forecast_plot.png)
 
 ---
 

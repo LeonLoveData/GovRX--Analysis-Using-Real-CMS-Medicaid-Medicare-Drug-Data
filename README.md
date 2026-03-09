@@ -64,6 +64,16 @@ The pipeline generates:
 - Interactive dashboard for exploration
 - Command-line AI assistant for metric explanations
 
+### Anomaly score distribution  
+![Anomaly_score_distribution](outputs/anomaly_score_distribution.png)
+
+
+### Medicaid units by year  
+![Medicaid_units by_year](outputs/medicaid_units_by_year.png)
+
+### Medicare_part_d_forecast_plot  
+![medicare_part_d_forecast_plot](medicare_part_d_forecast_plot.png)
+
 ---
 
 # Data Sources
